@@ -48,9 +48,9 @@ The code structure is a bit redundant, it works fine anyway.
  
 The font file does not belong to me, it will be deleted if copyright issue appears.
  
-Please run with a local server, do NOT open directly with  file://  protocol!
+Please run with a local server, do NOT open directly with  `file://`  protocol!
  
-The entry file is  index.html , local server is required.
+The entry file is  `index.html` , local server is required.
  
  
  
