@@ -39,17 +39,18 @@ Give me a Star if you like it,please!
 - **Current Version**: v2.2.6
 - **Developer**: bill74186 & AI Assist
  
- 
- 
 ## 📌 Project Introduction
  
 - **Style**: Minimal soft pixel design
 - **Device Support**: Perfect adaptation for PC & mobile devices
 - **Features**: Ultra-smooth original operation, no anti-shake & no frame lock, full multi-language internationalization, independent highest score local storage, hidden easter egg custom setting system
 - **Highlight**: The easter egg setting page is disguised as a Catalan language file with high concealment. The entrance is hidden under the footer author name.
- 
- 
- 
+
+## 📸 Screenshot
+
+![screenshot](https://cloud.githubusercontent.com/assets/1175750/8614312/280e5dc2-26f1-11e5-9f1f-5891c3ca8b26.png)
+
+This screenshot is not mine, it is a screenshot of the original gabrielecirulli
 ## 👤 Author Profile
  
 - **Real Name**: Secret 😜
@@ -57,8 +58,6 @@ Give me a Star if you like it,please!
 - **Age**: Just turned eighteen
 - **Personality**: Super lazy, do nothing if possible
 - **Hobbies**: Playing games & learning programming
- 
- 
  
 ## 💬 Words From Author
 
@@ -75,7 +74,6 @@ The entry file is  `index.html` , local server is required.
  
 > [!important]
 Please run with a local server, do NOT open directly with  `file://`  protocol!
- 
  
 ## 📁 File Structure
 
@@ -123,7 +121,6 @@ Please run with a local server, do NOT open directly with  `file://`  protocol
 > [!tip]
  All files are placed in the root directory for easy viewing
 
- 
 ## 🧾 Footer & License
  
 Made By Bill74186👍
