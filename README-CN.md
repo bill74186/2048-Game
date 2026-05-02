@@ -18,12 +18,11 @@
   <img src="https://img.shields.io/badge/CSS-3-1572B6?style=flat-square&logo=css" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-ES2025-F7DF1E?style=flat-square&logo=javascript" alt="JavaScript">
   <img src="https://img.shields.io/badge/jQuery-3.7.1-0769AD?style=flat-square&logo=jquery" alt="jQuery">
-  <img src="https://img.shields.io/badge/Android-7.0+-3DDC84?style=flat-square&logo=android" alt="Android7.0+">
+  <img src="https://img.shields.io/badge/Android-7.0+-3DDC84?style=flat-square&logo=android" alt="Android 7.0+">
 </p>
 
 </div>
- 
- 
+
 ## 🎮 线上游玩
 
 如果你不想下载来玩，请点 👉 
@@ -31,7 +30,6 @@
 *(`https://bill74186.github.io/2048-Game`)*
 </a>
 喜欢的话就点点Star吧，求求了！
- 
  
 ## ✨ 项目信息
  
@@ -42,7 +40,6 @@
 - **现版本号**: v2.2.6
 - **开发人员**: bill74186
  
- 
 ## 📌 项目介绍
  
 - **项目风格**：软像素极简风格
@@ -50,7 +47,14 @@
 - **核心特点**：原生丝滑操作手感、无防抖无锁帧、多语言国际化、独立最高分储存、隐藏彩蛋自定义设置系统
 - **特色亮点**：彩蛋设置页伪装为加泰罗尼亚语语言文件，隐蔽性极高，入口藏于页脚作者名称
  
+## 📸 游戏截图
  
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/1175750/8614312/280e5dc2-26f1-11e5-9f1f-5891c3ca8b26.png" alt="Screenshot"/>
+</p>
+ 
+这张截图不是我的，是原版gabrielecirulli拍的
+
 ## 👤 作者信息
  
 - **真名**: 保密 😜
@@ -58,7 +62,6 @@
 - **年龄**: 刚满十八岁~
 - **性格**: 非常懒，能不动就不动
 - **爱好**: 玩游戏，学习编程
- 
  
 ## 💬 作者的话
 
@@ -76,7 +79,6 @@
 > [!important]
 请以**本地服务器**运行，不要以本地文件 `file://` 运行！
 
- 
 ## 📁 项目架构
 
 ```
@@ -119,9 +121,9 @@
 ├── cy-GB.html        # 威尔士语游戏页
 └── ca-ES.html        # 隐藏彩蛋设置页（伪装加泰罗尼亚语）
 ```
+ 
 > [!tip]
 所有文件平铺在根目录上，方便查看和修改
- 
  
 ## 🧾 页脚信息
  
@@ -135,6 +137,3 @@ Made By Bill74186👍
  
 > [!note]
 该项目在MIT许可证下开源，您可以自由使用、修改和分发该项目的所有代码📖
-
-
-
