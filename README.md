@@ -47,10 +47,13 @@ Give me a Star if you like it,please!
 - **Highlight**: The easter egg setting page is disguised as a Catalan language file with high concealment. The entrance is hidden under the footer author name.
 
 ## 📸 Screenshot
-
-![screenshot](https://cloud.githubusercontent.com/assets/1175750/8614312/280e5dc2-26f1-11e5-9f1f-5891c3ca8b26.png)
+ 
+<p align="center">
+  <img src="https://cloud.githubusercontent.com/assets/1175750/8614312/280e5dc2-26f1-11e5-9f1f-5891c3ca8b26.png" alt="Screenshot"/>
+</p>
 
 This screenshot is not mine, it is a screenshot of the original gabrielecirulli
+
 ## 👤 Author Profile
  
 - **Real Name**: Secret 😜
