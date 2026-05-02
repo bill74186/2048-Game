@@ -64,18 +64,18 @@ Give me a Star if you like it,please!
 
 > [!warning]
 The font file does not belong to me, it will be deleted if copyright issue appears.
- 
+
 All content is produced by *bill74186*, all contents can be modified freely.
  
-Can you give me some *money* or *stars*? I'm running out of money to eat?  🙃🙃🙃
+Can you give me some *money* or a *star*? I'm running out of money to eat?  🙃🙃🙃
  
 The code structure is a bit redundant, it works fine anyway.
- 
-Please run with a local server, do NOT open directly with  `file://`  protocol!
- 
+
 The entry file is  `index.html` , local server is required.
  
- 
+> [!important]
+Please run with a local server, do NOT open directly with  `file://`  protocol!
+ 
  
 ## 📁 File Structure
 
