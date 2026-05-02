@@ -61,14 +61,15 @@ Give me a Star if you like it,please!
  
  
 ## 💬 Words From Author
+
+> [!warning]
+The font file does not belong to me, it will be deleted if copyright issue appears.
  
 All content is produced by *bill74186*, all contents can be modified freely.
  
 Can you give me some *money* or *stars*? I'm running out of money to eat?  🙃🙃🙃
  
 The code structure is a bit redundant, it works fine anyway.
- 
-The font file does not belong to me, it will be deleted if copyright issue appears.
  
 Please run with a local server, do NOT open directly with  `file://`  protocol!
  
@@ -118,7 +119,10 @@ The entry file is  `index.html` , local server is required.
 ├── cy-GB.html        # Welsh game page
 └── ca-ES.html        # Hidden easter egg setting page (disguised)
  ```
- 
+
+> [!tip]
+ All files are placed in the root directory for easy viewing
+
  
 ## 🧾 Footer & License
  
@@ -129,5 +133,6 @@ The footer is just for visual effect🥲
 Writing this README is the same🤪
  
 Just enjoy the game by yourself!👽
- 
-> This project is open-sourced under the MIT License, you are free to use, modify and distribute all codes of this project.📖
+
+> [!note]
+This project is open-sourced under the MIT License, you are free to use, modify and distribute all codes of this project.📖
