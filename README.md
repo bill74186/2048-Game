@@ -114,8 +114,7 @@ The entry file is  `index.html` , local server is required.
 ├── uk-UA.html                  # Ukrainian game page
 ├── el-GR.html                  # Greek game page
 ├── cy-GB.html                  # Welsh game page
-├── ca-ES.html                  # Hidden easter egg setting page (disguised)
-└── description.txt             # Project description document
+└── ca-ES.html                  # Hidden easter egg setting page (disguised)
  ```
  
  
